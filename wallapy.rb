@@ -3,7 +3,7 @@ class Wallapy < Formula
   homepage "http://wallapy.lukor.tk"
   url "https://www.lukor.tk/files/wallapy.tar.gz"
   sha256 "841b5842045201fb6207d6beb6c0a546ba5bcfb072870e7f3b7a84868b491c75"
-  version "1.1.1"
+  version "1.1.2"
 
   depends_on "nmap"
   depends_on "ipcalc"
